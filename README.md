@@ -1,5 +1,4 @@
-# booktravelpea
-### สรุปการทดลอง
+## สรุปการทดลอง
 -----------------
 - LAB 1 : Simple light sensor
 
