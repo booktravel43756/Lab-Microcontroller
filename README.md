@@ -19,6 +19,8 @@
    [การสมัคร github](https://youtu.be/rl79QEqbHZ8)
 
    [การสร้าง github page](https://www.youtube.com/watch?v=OhPuQMaBM7k)
+   
+   [การเปลี่ยน Theme github page](https://www.youtube.com/watch?v=sz-i_UYDPHE&feature=youtu.be)
 
 -------------------
 
